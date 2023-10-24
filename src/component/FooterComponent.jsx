@@ -25,7 +25,7 @@ const FooterComponent = () => {
         </Row>
         <Row className="d-flex justify-content-between">
           <Col lg="3" className="d-flex flex-column col-lg-2 col mt-lg-2 mt-5">
-            <Link to="contact">Contact</Link>
+            <Link to="landingpage-uts-paw/contact">Contact</Link>
             <Link to={'http://mohasbi.byethost31.com/?i=2'}>About Me</Link>
             <Link to="testimonial">Terms & Condition</Link>
           </Col>
