@@ -14,8 +14,8 @@ const NavbarComponent = () => {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto text-center">
               <div className="nav-link">
-                <NavLink to={''}>Home</NavLink>
-                <NavLink to={'contact'}>Contact</NavLink>
+                <NavLink to={'landingpage-uts-paw'}>Home</NavLink>
+                <NavLink to={'landingpage-uts-paw/contact'}>Contact</NavLink>
                 <NavLink to={'http://mohasbi.byethost31.com/?i=2'}>About Me</NavLink>
                 <NavLink to={'https://docs.google.com/document/d/1ZTVsrF3gQxXpKhElB4zcmrXV9WLgTEpc/edit?usp=sharing&ouid=100969293593956816914&rtpof=true&sd=true'}>Docs</NavLink>
               </div>

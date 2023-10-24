@@ -18,7 +18,7 @@ const Homepage = () => {
                 Bring <span>Technology is</span> <br /> in your hand
               </h1>
               <p className="mb-4 animate__animated animate__fadeInUp animate__delay-1s">This technology will bring new things and experience to your bussines and company</p>
-              <button className="btn btn-danger btn-lg w-50 rounded-1 me-2 mb-ss-0 mb-2 animate__animated animate__fadeInUp animate__delay-1s" onClick={() => navigate('/contact')}>
+              <button className="btn btn-danger btn-lg w-50 rounded-1 me-2 mb-ss-0 mb-2 animate__animated animate__fadeInUp animate__delay-1s" onClick={() => navigate('contact')}>
                 Buy
               </button>
               <button

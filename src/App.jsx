@@ -9,8 +9,8 @@ function App() {
     <div>
       <NavbarComponent />
       <Routes>
-        <Route path="/" Component={Homepage} />
-        <Route path="/contact" Component={Contact} />
+        <Route path="/landingpage-uts-paw" Component={Homepage} />
+        <Route path="/landingpage-uts-paw/contact" Component={Contact} />
       </Routes>
       <FooterComponent />
     </div>
